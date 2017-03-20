@@ -1,0 +1,25 @@
+{
+  "item_id": "a0IE000000ZQMFE",
+     "bottle": {
+         "name": "2015 Tornambe IGP Puglia Sangiovese",
+         "wine_type": "red",
+         "vintage": 2015,
+         "brand": "Tornambe",
+         "classification": "Sangiovese",
+         "abv": "12.75",
+         "grapes": ["Sangiovese"],
+         "region": ["Puglia", "Italy"],
+         "flavors": ["baked berry", "cherry", "citrus peel", "plum"],
+         "pairings": ["pasta", "veal", "pizza"],
+         "attributes": {
+             "body": 4,
+             "fruit": 4,
+             "earth": 2,
+             "tannin": 3,
+             "oak": null,
+             "acidity": null
+         },
+         "short_tasting_note": "This Sangiovese features aromas of roasted red pepper, plum and cherry. On the palate, concentrated notes of plum, rose and tart cherry layer over the savory earth and herbaceous notes of thyme and oregano.",
+         "tasting_note": "This Sangiovese is brick-red in color and features aromas of roasted red pepper, plum and cherry. On the palate, concentrated notes of plum, rose and tart cherry layer over the savory earth and herbaceous notes of thyme and oregano. Enjoy this striking red alongside pasta Bolognese, veal or pizza."
+     }
+}

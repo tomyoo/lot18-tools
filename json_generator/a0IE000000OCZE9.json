@@ -1,0 +1,25 @@
+{
+  "item_id": "a0IE000000OCZE9",
+     "bottle": {
+         "name": "2014 Skrimshaw Monterey County Pinot Blanc",
+         "wine_type": "white",
+         "vintage": 2014,
+         "brand": "Skrimshaw",
+         "classification": "Pinot Blanc",
+         "abv": "13.75",
+         "grapes": ["Pinot Blanc"],
+         "region": ["Monterey", "Central Coast", "California", "United States"],
+         "flavors": ["green apple", "lemon", "mineral", "stone fruits"],
+         "pairings": ["goat cheese", "anything grilled", "light seafood dishes"],
+         "attributes": {
+             "body": 3,
+             "fruit": 4,
+             "earth": null,
+             "tannin": null,
+             "oak": 1,
+             "acidity": 3
+         },
+         "short_tasting_note": "A crisp, yet rich wine, which shows generous flavors of wildflowers, green apples, stone fruits and honey.",
+         "tasting_note": "A beautiful accompaniment to your summertime repertoire, this crisp yet rich, aromatic expression of Monterey County shows generous flavors of wildflowers, green apple, stone fruit and honey. The palate displays pitch-perfect acidity, with notes of lemon rind and wet river rocks. Clean and tasty, this is a real crowd-pleaser."
+     }
+}

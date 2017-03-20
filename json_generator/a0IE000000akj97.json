@@ -1,0 +1,25 @@
+{
+  "item_id": "a0IE000000akj97",
+     "bottle": {
+         "name": "NV Curieuse Vin Blanc",
+         "wine_type": "white",
+         "vintage": NULL,
+         "brand": "Curieuse",
+         "classification": "White Blend",
+         "abv": "13.00",
+         "grapes": ["Viognier", "Pinot Gris"],
+         "region": ["Pays D'Oc", "Languedoc-Roussillon", "France"],
+         "flavors": ["jasmine", "nectarine", "orange blossom", "peach"],
+         "pairings": ["grilled chicken", "lobster", "light salads"],
+         "attributes": {
+             "body": 3,
+             "fruit": 4,
+             "earth": null,
+             "tannin": null,
+             "oak": 2,
+             "acidity": 3
+         },
+         "short_tasting_note": "A unique wine that combines aromatic Viognier with fruity Pinot Gris. Elevated acidity and a mineral core balance the rich fruit flavors of white peach, honeysuckle, vanilla and baking spice.",
+         "tasting_note": "Elevated acidity and a mineral core balance the rich fruit flavors of white peach, honeysuckle, vanilla and baking spice. A blend of aromatic Viognier, fermented in new French oak barrels, and fruity Pinot Gris, a varietal not commonly found in the South of France, combine to make a unique wine that deserves an exceptional meal, perhaps of butter-poached lobster, herb-roasted chicken, or roasted pork loin with stone fruit."
+     }
+}

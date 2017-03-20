@@ -7,12 +7,13 @@ def main():
 		rows = list(reader)
 
 	for row in rows:
-		if row['New?'] == 'Yes':
+		if row['Never been in club before?'] == 'Yes':
 			item_id = row['item_id']
-			grapes = str(row['grapes'].split(', ')).replace('\'', '"').lower()
+			grapes = str(row['grapes'].split(', ')).replace('\'', '"')
 			region = str(row['region'].split(', ')).replace('\'', '"')
 			flavors = str(row['flavors'].split(', ')).replace('\'', '"').lower()
 			pairings = str(row['pairings'].split(', ')).replace('\'', '"').lower()
+			abv = str(row['abv'].replace('%', ""))
 			output = ''
 			output += '{\n'
 			output += '  "item_id": "{0}",\n'.format(item_id)
@@ -22,10 +23,11 @@ def main():
 			output += '         "vintage": {0},\n'.format(row['year'])
 			output += '         "brand": "{0}",\n'.format(row['brand'])
 			output += '         "classification": "{0}",\n'.format(row['classification'])
+			output += '         "abv": "{0}",\n'.format(abv)
 			output += '         "grapes": {0},\n'.format(grapes)
-			output += '         "region": [{0}],\n'.format(region)
-			output += '         "flavors": [{0}],\n'.format(flavors)
-			output += '         "pairings": [{0}],\n'.format(pairings)
+			output += '         "region": {0},\n'.format(region)
+			output += '         "flavors": {0},\n'.format(flavors)
+			output += '         "pairings": {0},\n'.format(pairings)
 			output += '         "attributes": {\n'
 			output += '             "body": {0},\n'.format(row['body']).lower()
 			output += '             "fruit": {0},\n'.format(row['fruit']).lower()
@@ -34,6 +36,7 @@ def main():
 			output += '             "oak": {0},\n'.format(row['oak']).lower()
 			output += '             "acidity": {0}\n'.format(row['acidity']).lower()
 			output += '         },\n'
+			output += '         "short_tasting_note": "{0}",\n'.format(row['short_tasting_note'])
 			output += '         "tasting_note": "{0}"\n'.format(row['tasting_note'])
 			output += '     }\n'
 			output += '}'

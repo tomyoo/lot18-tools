@@ -1,0 +1,25 @@
+{
+  "item_id": "a0I0L00000c94hs",
+     "bottle": {
+         "name": "2015 Strato Paso Robles Cabernet Sauvignon",
+         "wine_type": "red",
+         "vintage": 2015,
+         "brand": "Strato",
+         "classification": "Cabernet Sauvignon",
+         "abv": "13.90",
+         "grapes": ["Cabernet Sauvignon"],
+         "region": ["Paso Robles", "California", "United States"],
+         "flavors": ["black cherry", "black currant", "black fruit", "cacao", "coffee", "plum"],
+         "pairings": ["beef", "grilled red meats", "hard cheeses", "marinated red meats", "steaks"],
+         "attributes": {
+             "body": 4,
+             "fruit": 4,
+             "earth": 3,
+             "tannin": 4,
+             "oak": null,
+             "acidity": null
+         },
+         "short_tasting_note": "Plump, ripe, dark black-red fruit flavors of plum, cherry and currant are exuberantly displayed on the palate, along with a dash of coffee bean and dried herbs.",
+         "tasting_note": "This Cabernet Sauvignon comes from Paso Robles, a relatively young appellation that's still defining itself. The region's winemakers are still homing in on the best varietals to grow here -- and the best areas to grow them -- and this plump, ripe wine is the region's latest success story. Dark black-red fruits are exuberantly displayed on the palate, with a dash of coffee bean and dried herbs adding complexity to the finish. Decanting this wine will mellow out the tannins and allow you to enjoy it in all its glory. Grill up your favorite cut of meat for an exquisite pairing."
+     }
+}

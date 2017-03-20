@@ -1,0 +1,25 @@
+{
+  "item_id": "a0IE000000akdIC",
+     "bottle": {
+         "name": "2016 Little Pioneer South East Australia Verdelho",
+         "wine_type": "white",
+         "vintage": 2016,
+         "brand": "Little Pioneer",
+         "classification": "Verdelho",
+         "abv": "13.30",
+         "grapes": ["Verdelho"],
+         "region": ["South Eastern Australia", "Australia"],
+         "flavors": ["citrus", "mango", "melon", "pineapple"],
+         "pairings": ["asian cuisines", "oysters"],
+         "attributes": {
+             "body": 3,
+             "fruit": 4,
+             "earth": null,
+             "tannin": null,
+             "oak": null,
+             "acidity": 3
+         },
+         "short_tasting_note": "Full of exuberant, ripe tropical fruit, this Australian white is easy to love. A good vein of acidity running throughout the palate lends energy and drive.",
+         "tasting_note": "Full of exuberant, ripe tropical fruit, this Australian white is easy-to-love. A good vein of acidity running throughout the palate, lends energy and drive, making it a pleasure to sip on its own, or with your favorite Thai recipes."
+     }
+}
