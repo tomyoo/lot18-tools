@@ -38,6 +38,11 @@ def main():
 			output += '         },\n'
 			output += '         "short_tasting_note": "{0}",\n'.format(row['short_tasting_note'])
 			output += '         "tasting_note": "{0}"\n'.format(row['tasting_note'])
+			output += '         "image_urls": {'
+            output += '             "label": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/{0}_label.jpeg"'.format(item_id),
+            output += '             "bottle": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/{0}_bottle.png"'.format(item_id),
+            output += '             "bottle_thumb": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/{0}_bottle_thumb.png'.format(item_id)"
+            output += '         }'
 			output += '     }\n'
 			output += '}'
 
