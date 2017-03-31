@@ -1,0 +1,31 @@
+{
+     "item_id": "a0I0L00000c94hJ",
+     "sku_type": "bottle",
+     "bottle": {
+         "name": "2015 Trilus California Chardonnay",
+         "wine_type": "white",
+         "vintage": 2015,
+         "brand": "Trilus",
+         "classification": "Chardonnay",
+         "abv": 13.70,
+         "grapes": ["Chardonnay"],
+         "region": ["California", "United States"],
+         "flavors": ["apple skin", "Asian pear", "butter", "lemon", "spice"],
+         "pairings": ["poultry", "roasted chicken", "seafood"],
+         "attributes": {
+             "body": 4,
+             "fruit": 4,
+             "earth": null,
+             "tannin": null,
+             "oak": 3,
+             "acidity": 3
+         },
+         "short_tasting_note": "An exuberantly fruited Chardonnay, with flavors of lemon curd, apple and pear displayed on the palate.",
+         "tasting_note": "An exuberantly fruited Chardonnay, with flavors of lemon curd, apple and pear prominently displayed on the palate. A richer mouth-feel can be attributed to partial barrel-fermentation and sur-lie ageing, however the wine remains focused and vibrant due to limited ML.",
+         "image_urls": {
+             "label": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0I0L00000c94hJ_label.jpeg",
+             "bottle": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0I0L00000c94hJ_bottle.png",
+             "bottle_thumb": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0I0L00000c94hJ_bottle_thumb.png"
+         }
+     }
+}

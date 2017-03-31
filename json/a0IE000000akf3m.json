@@ -1,0 +1,31 @@
+{
+     "item_id": "a0IE000000akf3m",
+     "sku_type": "bottle",
+     "bottle": {
+         "name": "2015 Vin Du Jour Vin de Pays d'Oc Merlot",
+         "wine_type": "red",
+         "vintage": 2015,
+         "brand": "Vin du Jour",
+         "classification": "Merlot",
+         "abv": 13.00,
+         "grapes": ["Merlot"],
+         "region": ["Pays D'Oc", "Languedoc-Roussillon", "France"],
+         "flavors": ["bing cherry", "black currant", "earth", "plum"],
+         "pairings": ["burgers", "lamb dishes", "grilled red meats"],
+         "attributes": {
+             "body": 3,
+             "fruit": 4,
+             "earth": 2,
+             "tannin": 3,
+             "oak": null,
+             "acidity": null
+         },
+         "short_tasting_note": "This is an attractive, approachable red on first sniff, with subtle notes of spice and red fruit. Generous acidity, vibrant red fruit and lifted aromatics give focus and freshness, and make the wine seem light on its feet.",
+         "tasting_note": "This is an attractive, approachable red on first sniff, with subtle notes of spice and red fruit. Generous acidity, vibrant red fruit and lifted aromatics give focus and freshness, and make the wine seem light on its feet. A classic-styled, versatile bistro wine to elevate the everyday, from braised meat dishes to burgers to roast chicken.",
+         "image_urls": {
+             "label": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0IE000000akf3m_label.jpeg",
+             "bottle": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0IE000000akf3m_bottle.png",
+             "bottle_thumb": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0IE000000akf3m_bottle_thumb.png"
+         }
+     }
+}

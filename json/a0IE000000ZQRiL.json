@@ -1,0 +1,31 @@
+{
+     "item_id": "a0IE000000ZQRiL",
+     "sku_type": "bottle",
+     "bottle": {
+         "name": "2015 Tengo Albariño Rías Baixas",
+         "wine_type": "white",
+         "vintage": 2015,
+         "brand": "Tengo",
+         "classification": "Albariño",
+         "abv": 12.00,
+         "grapes": ["Albariño"],
+         "region": ["Rías Baixas DO", "Spain"],
+         "flavors": ["kiwifruit", "lemon", "pear", "white pepper"],
+         "pairings": ["ceviche", "sushi", "oysters"],
+         "attributes": {
+             "body": 2,
+             "fruit": 4,
+             "earth": null,
+             "tannin": null,
+             "oak": 1,
+             "acidity": 3
+         },
+         "short_tasting_note": "Zesty and aromatic, this delightful Albariño from the Spanish coastal region of Rías Baixas features fresh notes of lemon, passionfruit and white pepper.",
+         "tasting_note": "With fresh notes of lemon and passionfruit, this lush and flavorful wine is a must-drink during the dog days of summer. Zesty and aromatic, this delightful Albariño from the Spanish coastal region of Rías Baixas makes a wonderful partner for all sorts of light seafood, from sashimi to oysters.",
+         "image_urls": {
+             "label": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0IE000000ZQRiL_label.jpeg",
+             "bottle": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0IE000000ZQRiL_bottle.png",
+             "bottle_thumb": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0IE000000ZQRiL_bottle_thumb.png"
+         }
+     }
+}

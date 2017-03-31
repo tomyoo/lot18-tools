@@ -1,0 +1,31 @@
+{
+     "item_id": "a0IE000000OChUN",
+     "sku_type": "bottle",
+     "bottle": {
+         "name": "2014 Parallus California White Wine Blend",
+         "wine_type": "white",
+         "vintage": 2014,
+         "brand": "Parallus",
+         "classification": "White Blend",
+         "abv": 13.50,
+         "grapes": ["Albariño", "Chardonnay", "Muscat"],
+         "region": ["California", "United States"],
+         "flavors": ["honey", "apple", "mineral", "peach"],
+         "pairings": ["asian cuisines", "grilled seafood", "light salads"],
+         "attributes": {
+             "body": 2,
+             "fruit": 4,
+             "earth": null,
+             "tannin": null,
+             "oak": 1,
+             "acidity": 3
+         },
+         "short_tasting_note": "The wine shows lovely aromas of white peach, melon and honeysuckle and is medium-bodied and round on the palate.",
+         "tasting_note": "Lovely aromatics, with notes of white peach, melon and honeysuckle. Medium bodied and round, with a nice long mouth-watering finish; this delicious white blend is great with dishes with a touch of spice like, Thai coconut shrimp curry or grilled fish tacos.",
+         "image_urls": {
+             "label": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0IE000000OChUN_label.jpeg",
+             "bottle": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0IE000000OChUN_bottle.png",
+             "bottle_thumb": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0IE000000OChUN_bottle_thumb.png"
+         }
+     }
+}

@@ -1,0 +1,31 @@
+{
+     "item_id": "a0IE000000OCdJb",
+     "sku_type": "bottle",
+     "bottle": {
+         "name": "2014 Finial California Sauvignon Blanc",
+         "wine_type": "white",
+         "vintage": 2014,
+         "brand": "Finial",
+         "classification": "Sauvignon Blanc",
+         "abv": 13.50,
+         "grapes": ["Sauvignon Blanc"],
+         "region": ["California", "United States"],
+         "flavors": ["flowers", "flint", "lemon", "citrus", "key lime"],
+         "pairings": ["oysters", "light seafood dishes", "Chinese takeout", "tapas"],
+         "attributes": {
+             "body": 1,
+             "fruit": 4,
+             "earth": null,
+             "tannin": null,
+             "oak": 1,
+             "acidity": 4
+         },
+         "short_tasting_note": "Pure characters of citrus, white flower and Key lime, along with a Meyer lemon accent in both the aromas and flavors.",
+         "tasting_note": "Sourced from grapes grown in warm vineyards, this ripe, bright, inviting wine shows expressive, pure characters of citrus, white flower and Key lime, with a Meyer lemon accent in both the aromas and flavors. A flinty mineral core combined with perfect acidity makes this an ideal accompaniment for seafood dishes or salads, or as an aperitif.",
+         "image_urls": {
+             "label": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0IE000000OCdJb_label.jpeg",
+             "bottle": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0IE000000OCdJb_bottle.png",
+             "bottle_thumb": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0IE000000OCdJb_bottle_thumb.png"
+         }
+     }
+}

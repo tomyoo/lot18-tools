@@ -1,0 +1,31 @@
+{
+     "item_id": "a0IE000000ZPNz0",
+     "sku_type": "bottle",
+     "bottle": {
+         "name": "2015 Le Flaneur IGP Côtes de Gascogne",
+         "wine_type": "white",
+         "vintage": 2015,
+         "brand": "Le Flaneur",
+         "classification": "Côtes de Gascogne",
+         "abv": 12.00,
+         "grapes": ["Sauvignon Blanc", "Gros Manseng", "Ugni Blanc"],
+         "region": ["Côtes de Gascogne", "South West France", "France"],
+         "flavors": ["lemon", "peach"],
+         "pairings": ["light salads", "light seafood dishes"],
+         "attributes": {
+             "body": 3,
+             "fruit": 3,
+             "earth": null,
+             "tannin": null,
+             "oak": 1,
+             "acidity": 3
+         },
+         "short_tasting_note": "Clean, juicy and ripe, this white has good acidity, along with lime, lemon, pear and peach aromas. It is light- to medium-bodied on the palate, with more citrus and stone fruit flavors.",
+         "tasting_note": "Clean, juicy and ripe, this white has good acidity, along with lime, lemon, pear and peach aromas. It is light- to medium-bodied on the palate, with more citrus and stone fruit flavors. A wine meant for enjoying in the warmer months, this refreshing white should be served alongside light salads or seafood dishes.",
+         "image_urls": {
+             "label": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0IE000000ZPNz0_label.jpeg",
+             "bottle": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0IE000000ZPNz0_bottle.png",
+             "bottle_thumb": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0IE000000ZPNz0_bottle_thumb.png"
+         }
+     }
+}

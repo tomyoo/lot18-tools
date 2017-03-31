@@ -1,0 +1,31 @@
+{
+     "item_id": "a0I0L00000c94hT",
+     "sku_type": "bottle",
+     "bottle": {
+         "name": "2015 Rogue Wave Mendocino County Pinot Noir",
+         "wine_type": "red",
+         "vintage": 2015,
+         "brand": "Rogue Wave",
+         "classification": "Pinot Noir",
+         "abv": 13.80,
+         "grapes": ["Pinot Noir"],
+         "region": ["Mendocino", "North Coast", "California", "United States"],
+         "flavors": ["bing cherry", "forest floor", "mushroom", "raspberry"],
+         "pairings": ["game bird", "salmon", "mushroom risotto"],
+         "attributes": {
+             "body": 3,
+             "fruit": 3,
+             "earth": 2,
+             "tannin": 2,
+             "oak": null,
+             "acidity": null
+         },
+         "short_tasting_note": "Supple and savory with ripe berry fruit flavors that linger on the palate.",
+         "tasting_note": "Dark and brooding, this is one of those Pinot you could tell all your problems to ... and maybe get some answers. Earthy in style, with overt characters of smoke and mushroom, the wine slowly transforms in the glass to reveal flavors of berry and cherry, along with a savory herbal note that knits everything together. The wine remains incredibly approachable and alluring, bringing you in deeper with each sip.",
+         "image_urls": {
+             "label": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0I0L00000c94hT_label.jpeg",
+             "bottle": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0I0L00000c94hT_bottle.png",
+             "bottle_thumb": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0I0L00000c94hT_bottle_thumb.png"
+         }
+     }
+}

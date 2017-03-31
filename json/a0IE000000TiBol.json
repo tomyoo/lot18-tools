@@ -1,0 +1,31 @@
+{
+     "item_id": "a0IE000000TiBol",
+     "sku_type": "bottle",
+     "bottle": {
+         "name": "2014 Tornambe Piedmont Barbera d'Asti",
+         "wine_type": "red",
+         "vintage": 2014,
+         "brand": "Tornambe",
+         "classification": "Barbera d'Asti",
+         "abv": 13.00,
+         "grapes": ["Barbera"],
+         "region": ["Barbera d'Asti DOCG", "Piedmont", "Italy"],
+         "flavors": ["dark cherry", "strawberry", "tobacco", "violet"],
+         "pairings": ["aged cheeses", "braised meats", "italian dishes"],
+         "attributes": {
+             "body": 2,
+             "fruit": 3,
+             "earth": 4,
+             "tannin": 2,
+             "oak": null,
+             "acidity": null
+         },
+         "short_tasting_note": "This smooth, delightful red shows delicately interwoven characters of red plum, dried cherry, leather, herbs and cranberry.",
+         "tasting_note": "This wine is named for an enterprising, entrepreneurial family that emigrated from Italy to New York in 1921 – and persevered despite threats from The Black Hand mafia. Made in a fresh, approachable, modern style, yet possessing the classic structure and finesse of wines from Northwest Italy’s sun-exposed hills of Asti, this Barbera shows delicately interwoven characters of red plum, dried cherry, leather, herbs and cranberry-like acidity. Just as the Tornambes do, enjoy this smooth red alongside pasta Bolognese, grilled meat dishes or seafood pasta in red sauce.",
+         "image_urls": {
+             "label": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0IE000000TiBol_label.jpeg",
+             "bottle": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0IE000000TiBol_bottle.png",
+             "bottle_thumb": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0IE000000TiBol_bottle_thumb.png"
+         }
+     }
+}

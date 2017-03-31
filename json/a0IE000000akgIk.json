@@ -1,0 +1,31 @@
+{
+     "item_id": "a0IE000000akgIk",
+     "sku_type": "bottle",
+     "bottle": {
+         "name": "2013 Longwave Monterey County Syrah",
+         "wine_type": "red",
+         "vintage": 2013,
+         "brand": "Longwave",
+         "classification": "Syrah",
+         "abv": 13.76,
+         "grapes": ["Syrah"],
+         "region": ["California", "United States"],
+         "flavors": ["blackberry", "herbs", "plum"],
+         "pairings": ["barbecue", "steamed pork buns", "leg of lamb"],
+         "attributes": {
+             "body": 4,
+             "fruit": 4,
+             "earth": 2,
+             "tannin": 3,
+             "oak": null,
+             "acidity": null
+         },
+         "short_tasting_note": "This transcendent Monterey County Syrah features aromas of plum and blackberry, hints of herbs and spice, integrated tannins and a lingering black-fruit finish.",
+         "tasting_note": "This transcendent Monterey County Syrah features aromas of plum and blackberry, hints of herbs and spice, integrated tannins and a lingering black-fruit finish. Mostly Syrah, with a bit of Merlot, Petite Sirah, Pinot Noir and Cabernet Sauvignon blended in, the juice for this wine was fermented in stainless steel to bring out the freshness of the fruit flavors. Enjoy with lamb, barbecue and other savory foods.",
+         "image_urls": {
+             "label": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0IE000000akgIk_label.jpeg",
+             "bottle": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0IE000000akgIk_bottle.png",
+             "bottle_thumb": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0IE000000akgIk_bottle_thumb.png"
+         }
+     }
+}

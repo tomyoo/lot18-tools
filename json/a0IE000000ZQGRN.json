@@ -1,0 +1,31 @@
+{
+     "item_id": "a0IE000000ZQGRN",
+     "sku_type": "bottle",
+     "bottle": {
+         "name": "2015 Chulengo Chilean Cabernet Reserva",
+         "wine_type": "red",
+         "vintage": 2015,
+         "brand": "Chulengo",
+         "classification": "Cabernet Sauvignon",
+         "abv": 14.00,
+         "grapes": ["Cabernet Sauvignon"],
+         "region": ["Chile"],
+         "flavors": ["bell pepper", "black currant", "dark cherry", "dark chocolate"],
+         "pairings": ["anything grilled", "short ribs", "braised meats"],
+         "attributes": {
+             "body": 4,
+             "fruit": 4,
+             "earth": 3,
+             "tannin": 4,
+             "oak": null,
+             "acidity": null
+         },
+         "short_tasting_note": "Features flavors of blackberry pie, Damson plum, black cherry, cocoa powder and cassis on the palate, while appetizing tannins provide structure.",
+         "tasting_note": "Intense aromas of blackberry pie, damson plums, black cherries, chocolate powder, and cassis. Deeply concentrated, with sweet and mouth-filling tannins. Excellent structure and density with a long, lusturous finish.",
+         "image_urls": {
+             "label": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0IE000000ZQGRN_label.jpeg",
+             "bottle": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0IE000000ZQGRN_bottle.png",
+             "bottle_thumb": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/a0IE000000ZQGRN_bottle_thumb.png"
+         }
+     }
+}
