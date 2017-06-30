@@ -7,7 +7,7 @@ def main():
         rows = list(reader)
 
     for row in rows:
-        #if row['Never been in club before?'] == 'Yes':
+        #if row['New to club?'] == 'Yes':
             item_id = row['item_id']
             grapes = str(row['grapes'].split('; ')).replace('\'', '"')
             region = str(row['region'].split('; ')).replace('\'', '"')
@@ -37,14 +37,14 @@ def main():
             output += '             "acidity": {0}\n'.format(row['acidity']).lower()
             output += '         },\n'
             output += '         "short_tasting_note": "{0}",\n'.format(row['short_tasting_note'])
-            output += '         "tasting_note": "{0}"\n'.format(row['tasting_note'])
-            output += '         "image_urls": {'
-            output += '             "label": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/{0}_label.jpeg"'.format(item_id),
-            output += '             "bottle": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/{0}_bottle.png"'.format(item_id),
-            output += '             "bottle_thumb": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/{0}_bottle_thumb.png'.format(item_id)
-            output += '         }'
+            output += '         "tasting_note": "{0}",\n'.format(row['tasting_note'])
+            output += '         "image_urls": {\n'
+            output += '             "label": "https://partner.wineassets.net/{0}_label.jpeg",\n'.format(item_id)
+            output += '             "bottle": "https://partner.wineassets.net/{0}_bottle.png",\n'.format(item_id)
+            output += '             "bottle_thumb": "https://partner.wineassets.net/{0}_bottle_thumb.png"\n'.format(item_id)
+            output += '         }\n'
             output += '     }\n'
-            output += '}'
+            output += '}\n'
 
             outfile = open("{0}.json".format(item_id), "w")
             outfile.write(output)

@@ -14,6 +14,7 @@ def main():
 	missing_files = []
 
 	for js in json_files:
+		print(js)
 		with open(os.path.join(path_to_json, js)) as json_file:
 			loaded_file = json.load(json_file)
 			label = loaded_file['bottle']['image_urls']['label']
