@@ -9,10 +9,10 @@ def main():
     for row in rows:
         #if row['Never been in club before?'] == 'Yes':
             item_id = row['item_id']
-            grapes = str(row['grapes'].split(', ')).replace('\'', '"')
-            region = str(row['region'].split(', ')).replace('\'', '"')
-            flavors = str(row['flavors'].split(', ')).replace('\'', '"').lower()
-            pairings = str(row['pairings'].split(', ')).replace('\'', '"').lower()
+            grapes = str(row['grapes'].split('; ')).replace('\'', '"')
+            region = str(row['region'].split('; ')).replace('\'', '"')
+            flavors = str(row['flavors'].split('; ')).replace('\'', '"').lower()
+            pairings = str(row['pairings'].split('; ')).replace('\'', '"').lower()
             abv = str(row['abv'].replace('%', ""))
             output = ''
             output += '{\n'
@@ -41,7 +41,7 @@ def main():
             output += '         "image_urls": {'
             output += '             "label": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/{0}_label.jpeg"'.format(item_id),
             output += '             "bottle": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/{0}_bottle.png"'.format(item_id),
-            output += '             "bottle_thumb": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/{0}_bottle_thumb.png'.format(item_id)"
+            output += '             "bottle_thumb": "https://s3.amazonaws.com/lot18-partner/HelloFresh+Images/{0}_bottle_thumb.png'.format(item_id)
             output += '         }'
             output += '     }\n'
             output += '}'
