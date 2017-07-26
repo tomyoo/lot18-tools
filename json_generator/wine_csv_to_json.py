@@ -7,7 +7,7 @@ def main():
         rows = list(reader)
 
     for row in rows:
-        #if row['New to club?'] == 'Yes':
+        if row['New to club?'] == 'Yes':
             item_id = row['item_id']
             grapes = str(row['grapes'].split('; ')).replace('\'', '"')
             region = str(row['region'].split('; ')).replace('\'', '"')
@@ -17,6 +17,7 @@ def main():
             output = ''
             output += '{\n'
             output += '     "item_id": "{0}",\n'.format(item_id)
+            output += '     "sku_type": "bottle",\n'
             output += '     "bottle": {\n'
             output += '         "name": "{0}",\n'.format(row['name'])
             output += '         "wine_type": "{0}",\n'.format(row['wine_type'])
