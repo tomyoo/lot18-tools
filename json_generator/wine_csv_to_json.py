@@ -7,7 +7,7 @@ def main():
         rows = list(reader)
 
     for row in rows:
-        if row['New to club?'] == 'Yes':
+         if row['New to club?'] == 'Yes':
             item_id = row['item_id']
             grapes = str(row['grapes'].split('; ')).replace('\'', '"')
             region = str(row['region'].split('; ')).replace('\'', '"')
